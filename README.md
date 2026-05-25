@@ -16,7 +16,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 
 ## 📬 Como me encontrar
 * [LinkedIn](https://www.linkedin.com/in/rogerio-santos-dev/)
-* E-mail: rogerio.santos150410@gmail.com
+* E-mail: rogerio.santos138416@gmail.com
 
 ---
 *Focado na melhoria contínua, uma linha de código (e um treino) de cada vez.*
