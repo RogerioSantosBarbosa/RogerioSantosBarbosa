@@ -8,7 +8,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 * ⚙️ Criando aplicações interativas e lógica de programação utilizando a Godot Engine.
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** Python
+* **Linguagens:** Python, Java
 * **Análise de Dados:** Pandas, NumPy, Matplotlib, Seaborn
 * **Engenharia de Dados & Cloud:** AWS (S3, Redshift, Glue, Lake Formation)
 * **Desenvolvimento Web:** Flask, Bootstrap
